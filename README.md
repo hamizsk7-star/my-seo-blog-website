@@ -50,3 +50,4 @@ This repository is ready for immediate deployment on **Vercel**, **GitHub Pages*
    - Pune cake weight and guest calculator.
    - Dynamic 1x / 1.5x / 2x recipe ingredient scaler.
    - WhatsApp quick ordering modal pre-filled with Pune delivery localities.
+
