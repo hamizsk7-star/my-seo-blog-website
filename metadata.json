@@ -1,0 +1,6 @@
+{
+  "name": "Pune Artisan Bakes - Eggless & Custom Cakes",
+  "description": "Handcrafted eggless cakes, custom birthday cakes, and artisan baking guides from Pune's premier home bakery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
